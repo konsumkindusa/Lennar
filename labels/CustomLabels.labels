@@ -7,4 +7,20 @@
         <shortDescription>AR-CustomLabel1</shortDescription>
         <value>AR-CustomLabel1</value>
     </labels>
+    <labels>
+        <fullName>AccountActivityHistory1_LazyLoad</fullName>
+        <categories>Lazy Load</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AccountActivityHistory1_LazyLoad</shortDescription>
+        <value>2500</value>
+    </labels>
+    <labels>
+        <fullName>AccountPointsData_LazyLoad</fullName>
+        <categories>Lazy Load</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AccountPointsData_LazyLoad</shortDescription>
+        <value>7000</value>
+    </labels>
 </CustomLabels>

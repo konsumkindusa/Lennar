@@ -97,6 +97,8 @@
     </types>
     <types>
         <members>AR_CustomLabel1</members>
+        <members>AccountActivityHistory1_LazyLoad</members>
+        <members>AccountPointsData_LazyLoad</members>
         <name>CustomLabel</name>
     </types>
     <types>
