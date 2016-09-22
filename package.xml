@@ -106,6 +106,7 @@
         <name>CustomLabels</name>
     </types>
     <types>
+        <members>AR4_CustomObject__c</members>
         <members>AR_AccountObj1__c</members>
         <members>AR_CustomObject1__c</members>
         <members>AR_Custom_object2__c</members>
