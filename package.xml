@@ -110,6 +110,7 @@
         <members>AR_AccountObj1__c</members>
         <members>AR_CustomObject1__c</members>
         <members>AR_Custom_object2__c</members>
+        <members>AR_webinar_Object__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
