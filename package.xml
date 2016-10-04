@@ -56,11 +56,20 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AR4_CustomObject__c.AR4_CustomField__c</members>
         <members>AR_AccountObj1__c.CustomField2__c</members>
         <members>AR_AccountObj1__c.CustomFieldDemo__c</members>
+        <members>AR_CustObjDemoCaptialOne__c.AR_CustFieldCaptialOne__c</members>
+        <members>AR_CustObjDemoForcePoint__c.AR_CustFieldForcePoint__c</members>
+        <members>AR_CustObjDominion__c.AR_CustFieldDominion__c</members>
+        <members>AR_CustObjHoneywell__c.AR_CustFieldHoneywell__c</members>
         <members>AR_CustomObject1__c.AR_CustomField1__c</members>
+        <members>AR_CustomObject1__c.AR_CustomField_Demo__c</members>
         <members>AR_CustomObject1__c.AR_Custom_Field3__c</members>
         <members>AR_CustomObject1__c.bobtext__c</members>
+        <members>AR_Custom_object2__c.CustomField2_Demo__c</members>
+        <members>AR_Custom_object2__c.CustomField_SchneiderDemo__c</members>
+        <members>AR_webinar_Object__c.webinar_cust_field__c</members>
         <members>Account.AR_Custom_Field3_Accounts__c</members>
         <members>Account.Active__c</members>
         <members>Account.AutorabitExtId__c</members>
@@ -70,6 +79,7 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -92,6 +102,9 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Pricebook2.AutorabitExtId__c</members>
+        <members>PricebookEntry.AutorabitExtId__c</members>
+        <members>Product2.AutorabitExtId__c</members>
         <members>User.AutorabitExtId__c</members>
         <name>CustomField</name>
     </types>

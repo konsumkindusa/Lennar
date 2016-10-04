@@ -68,6 +68,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>AR_CustomField_Demo__c</fullName>
+        <description>This is Demonstration with end-to-end process</description>
+        <externalId>false</externalId>
+        <label>AR-CustomField-Demo</label>
+        <length>20</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AR_Custom_Field3__c</fullName>
         <description>Add Comment for  AR-Custom Field3.</description>
         <externalId>false</externalId>

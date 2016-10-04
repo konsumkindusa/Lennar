@@ -56,6 +56,27 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>CustomField2_Demo__c</fullName>
+        <description>This is for the custom field for Salesforce team demo</description>
+        <externalId>false</externalId>
+        <label>CustomField2_Demo</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CustomField_SchneiderDemo__c</fullName>
+        <externalId>false</externalId>
+        <label>CustomField_SchneiderDemo</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>AR-Custom object2</label>
     <nameField>
         <label>AR-Custom object2 Name</label>
