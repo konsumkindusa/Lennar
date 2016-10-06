@@ -122,6 +122,7 @@
         <members>AR4_CustomObject__c</members>
         <members>AR_AccountObj1__c</members>
         <members>AR_CustObjDemoCaptialOne__c</members>
+        <members>AR_CustObjDemoForcePoint__c</members>
         <members>AR_CustObjDominion__c</members>
         <members>AR_CustObjHoneywell__c</members>
         <members>AR_CustomObject1__c</members>
