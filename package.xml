@@ -459,11 +459,18 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AR4_CustomObject__c</members>
         <members>AR_AccountObj1__c</members>
+        <members>AR_CustObjDemoCaptialOne__c</members>
+        <members>AR_CustObjDemoForcePoint__c</members>
+        <members>AR_CustObjDominion__c</members>
+        <members>AR_CustObjHoneywell__c</members>
         <members>AR_CustomObject1__c</members>
         <members>AR_Custom_object2__c</members>
+        <members>AR_webinar_Object__c</members>
         <members>Account</members>
         <members>Asset</members>
+        <members>AutoRabitTrain__c</members>
         <members>Campaign</members>
         <members>Case</members>
         <members>Contact</members>
