@@ -121,6 +121,9 @@
     <types>
         <members>AR4_CustomObject__c</members>
         <members>AR_AccountObj1__c</members>
+        <members>AR_CustObjDemoCaptialOne__c</members>
+        <members>AR_CustObjDominion__c</members>
+        <members>AR_CustObjHoneywell__c</members>
         <members>AR_CustomObject1__c</members>
         <members>AR_Custom_object2__c</members>
         <members>AR_webinar_Object__c</members>
@@ -130,6 +133,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>AutoRabitTrain__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -200,6 +204,10 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>Case.Standard</members>
+        <name>EscalationRule</name>
+    </types>
+    <types>
         <members>Case</members>
         <name>EscalationRules</name>
     </types>
@@ -208,16 +216,23 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>AR4_CustomObject__c-AR4-CustomObject Layout</members>
         <members>AR_AccountObj1__c-AR-AccountObj1 Layout</members>
+        <members>AR_CustObjDemoCaptialOne__c-AR-CustObjDemoCaptialOne Layout</members>
+        <members>AR_CustObjDemoForcePoint__c-AR-CustObjDemoForcePoint Layout</members>
+        <members>AR_CustObjDominion__c-AR-CustObjDominion Layout</members>
+        <members>AR_CustObjHoneywell__c-AR-CustObjHoneywell Layout</members>
         <members>AR_CustomObject1__c-AR-CustomObject1 Layout</members>
         <members>AR_CustomObject1__c-AR-Layout1</members>
         <members>AR_CustomObject1__c-Copy of AR-CustomObject1 Layout</members>
         <members>AR_Custom_object2__c-AR-Custom object2 Layout</members>
+        <members>AR_webinar_Object__c-AR-webinar-Object Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>AutoRabitTrain__c-AutoRabitTrain Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -258,6 +273,7 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
+        <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
@@ -335,6 +351,11 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>AR-Profile-Dominion</members>
+        <members>AR-Profile1</members>
+        <members>AR4-Profile</members>
+        <members>AR4-Profile-ForcePoint</members>
+        <members>AR4-Profile-Honeywell</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -365,6 +386,7 @@
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
         <members>PlatformPortal</members>
+        <members>ProfileDemo_CaptialOne</members>
         <members>ReadOnly</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
@@ -490,12 +512,19 @@
         <name>WebLink</name>
     </types>
     <types>
+        <members>AR4_CustomObject__c</members>
         <members>AR_AccountObj1__c</members>
+        <members>AR_CustObjDemoCaptialOne__c</members>
+        <members>AR_CustObjDemoForcePoint__c</members>
+        <members>AR_CustObjDominion__c</members>
+        <members>AR_CustObjHoneywell__c</members>
         <members>AR_CustomObject1__c</members>
         <members>AR_Custom_object2__c</members>
+        <members>AR_webinar_Object__c</members>
         <members>Account</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>AutoRabitTrain__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
